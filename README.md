@@ -100,6 +100,10 @@ Please run the following commands on a terminal.
 ---
 ## SECTION 7 : MISCELLANEOUS
 
+### BusinessProblem
+* CI2 CA GA-Fuzzy ATS - GU Zhan (Sam).pdf
+* FCPO_6_years_NUS.xlsx
+
 ### Research
 * Reference paper
 
