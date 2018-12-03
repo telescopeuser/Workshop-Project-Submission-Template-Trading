@@ -50,7 +50,7 @@ Note: It is not mandatory for every project member to appear in video presentati
 ---
 ## SECTION 5 : USER GUIDE
 
-`<Github File Link>` : <https://github.com/telescopeuser/Workshop-Project-Submission-Template/blob/master/UserGuide/User%20Guide%20HDB-BTO.pdf>
+`<Github File Link>` : <https://github.com/telescopeuser/Workshop-Project-Submission-Template-Trading/blob/master/UserGuide/README.md>
 
 ### Prerequisites
 * Git
@@ -77,13 +77,13 @@ Please run the following commands on a terminal.
 > git clone [ this repository ]
 > cd **SystemCode/Scripts**
 > jupyter notebook
-> Open **bt2.ipynb**
+> Open [bt2.ipynb](https://github.com/telescopeuser/Workshop-Project-Submission-Template-Trading/blob/master/SystemCode/Scripts/bt2.ipynb)
 > run all the cells in order
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-`<Github File Link>` : <https://github.com/telescopeuser/Workshop-Project-Submission-Template/blob/master/ProjectReport/Project%20Report%20HDB-BTO.pdf>
+`<Github File Link>` : <https://github.com/telescopeuser/Workshop-Project-Submission-Template-Trading/blob/master/ProjectReport/Fuzzy%20Moving%20Average%20System%20with%20Genetic%20Algorithm%20Optimisation%20for%20Trading%20Crude%20Palm%20Oil%20Futures.v1.pdf>
 
 **Recommended Sections for Project Report / Paper:**
 - Executive Summary / Paper Abstract
