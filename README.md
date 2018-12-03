@@ -70,14 +70,20 @@ Note: It is not mandatory for every project member to appear in video presentati
 * pytz
 
 ### Setup
+
 > Copy Scripts/skfuzzy/controlsystem.py to <Anaconda Installation Folder>\Lib\site-packages\skfuzzy\control. This is required to use the get antecedent function custom implementation.
 
 ## Run system / solution
 Please run the following commands on a terminal.
+
 > git clone [ this repository ]
+
 > cd **SystemCode/Scripts**
+
 > jupyter notebook
+
 > Open [bt2.ipynb](https://github.com/telescopeuser/Workshop-Project-Submission-Template-Trading/blob/master/SystemCode/Scripts/bt2.ipynb)
+
 > run all the cells in order
 
 ---
