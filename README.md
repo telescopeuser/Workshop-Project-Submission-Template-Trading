@@ -43,9 +43,10 @@ The objective of this continuous assessment is to implement the technique propos
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-Note: It is not mandatory for every project member to appear in video presentation; Presentation by one project member is acceptable.
-
 [![Fuzzy Moving Average System with Genetic Algorithm Optimisation for Trading Crude Palm Oil Futures](http://img.youtube.com/vi/c-SQBHtVb8Y/0.jpg)](https://youtu.be/c-SQBHtVb8Y "Fuzzy Moving Average System with Genetic Algorithm Optimisation for Trading Crude Palm Oil Futures")
+
+Note: It is not mandatory for every project member to appear in video presentation; Presentation by one project member is acceptable. 
+More reference video presentations [here](https://telescopeuser.wordpress.com/2018/03/31/master-of-technology-solution-know-how-video-index-2/ "video presentations")
 
 ---
 ## SECTION 5 : USER GUIDE
